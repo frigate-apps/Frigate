@@ -1,5 +1,5 @@
 #include <stdio.h>
 
-void Frgate() {
+void Frigate() {
     printf("Frgate UI Hello, World!");
 }
