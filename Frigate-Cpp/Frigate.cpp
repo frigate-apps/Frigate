@@ -1,6 +1,5 @@
 #include <stdio.h>
-int main ()
-{
+
+void Frgate() {
     printf("Frgate UI Hello, World!");
-    return 0;
 }
