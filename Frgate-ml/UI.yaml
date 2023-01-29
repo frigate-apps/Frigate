@@ -1,0 +1,16 @@
+# Frgate UI
+main:
+  - Windows
+  - button
+
+Windows:
+  title: "Frgate UI Hello World !"
+  size: 800 600
+
+button:
+  # 位置中间
+  text: "Test Button"
+  pos: middle
+  # pos: 0 0
+  size: 50 50
+  # position
