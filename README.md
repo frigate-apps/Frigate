@@ -19,3 +19,11 @@ Frigate-UI是一种军舰鸟的UI框架，UI设计界面文件尝试改进
 
 支持 NanoGUI，LVGL，Tauri
 
+
+
+
+| 系统 | 界面库 | 支持 | 
+|:--:|:--:|:--:|
+| Wnodws | NanoGUI | ✅ |
+| Wnodws | Tauri | ✅ |
+| Wnodws | SpaceLonganRenderer | ✅ |
