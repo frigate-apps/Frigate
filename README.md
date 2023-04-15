@@ -16,3 +16,6 @@ Frigate-UI是一种军舰鸟的UI框架，UI设计界面文件尝试改进
 配置文件格式: yaml、json、ini、TOML、
 你们要投票要哪个配置文件格式?
 
+
+支持 NanoGUI，Tauri
+
