@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="Frigate-Logo.png">
-  <img src="Frigate-Logo.png" alt="Frigate-Logo" height="128">
+  <img src="New-Frigate-Logo.png" alt="Frigate-Logo" height="128">
 </picture>
 
 # Frigate 1.0 / Frigate-Script 1.0 
