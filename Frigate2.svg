@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="768px" height="768px" viewBox="0 0 768 768" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="编组-3">
+    <path d="M0 0L768 0L768 768L0 768L0 0Z" id="矩形" fill="#242938" fill-rule="evenodd" stroke="none" />
+    <path d="M64 128C64 92.6538 92.6538 64 128 64C163.346 64 192 92.6538 192 128C192 163.346 163.346 192 128 192C92.6538 192 64 163.346 64 128Z" id="椭圆" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+    <g id="编组" transform="translate(128 128)">
+      <path d="M0 256C0 114.615 114.615 0 256 0C350.756 0 433.488 51.4814 477.752 128L255.867 128C185.211 128 127.933 185.308 127.933 256C127.933 326.692 185.211 384 255.867 384L477.752 384C433.488 460.519 350.756 512 256 512C114.615 512 0 397.385 0 256Z" id="椭圆-5-差异-2" fill="#FF4949" fill-rule="evenodd" stroke="none" />
+      <path d="M383.801 192L477.752 192L477.752 320L383.801 320L383.801 192Z" id="矩形" fill="#54EE97" fill-rule="evenodd" stroke="none" />
+      <path d="M191.9 256C191.9 220.654 220.539 192 255.867 192C291.195 192 319.834 220.654 319.834 256C319.834 291.346 291.195 320 255.867 320C220.539 320 191.9 291.346 191.9 256Z" id="椭圆-9" fill="#FF4949" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>
