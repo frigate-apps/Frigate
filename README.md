@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="Frigate-Logo.png">
+  <source media="(prefers-color-scheme: dark)" srcset="Frigate2-logo.svg">
   <img src="New-Frigate-Logo.png" alt="Frigate-Logo" height="128">
 </picture>
 
