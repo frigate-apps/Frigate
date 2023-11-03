@@ -13,7 +13,7 @@ Frigate-UI是一种军舰鸟的UI框架，UI设计界面文件尝试改进
 
 高性能解析器 / vue的mvvm模式
 
-配置文件格式: yaml、json、ini、TOML、
+配置文件格式: NSON、yaml、json、ini、TOML、
 你们要投票要哪个配置文件格式?
 
 
