@@ -27,3 +27,6 @@ Frigate-UI是一种军舰鸟的UI框架，UI设计界面文件尝试改进
 | Wnodws | NanoGUI | ✅ |
 | Wnodws | Tauri | ✅ |
 | Wnodws | ImGUI | ✅ |
+| | maui | ✅ |
+| | avaui | ✅ |
+
