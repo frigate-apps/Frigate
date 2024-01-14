@@ -5,7 +5,7 @@
 
 # Frigate 1.0 / (NSON 1.0)Frigate-Script 1.0 
 
-Frigate是一种军舰鸟的解释器，提前尝试改进语法，UI框架
+Frigate是一种军舰鸟的解释器，提前尝试改进语法，Frigate主题，UI框架
 
 UI设计工具→UI设计文件→解释器→程序→渲染UI
 
