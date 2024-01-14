@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="768px" height="768px" viewBox="0 0 768 768" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 192C0 85.9613 85.9613 0 192 0C298.039 0 384 85.9613 384 192C384 298.039 298.039 384 192 384C85.9613 384 0 298.039 0 192Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="编组-27">
+    <path d="M0 0L768 0L768 768L0 768L0 0L0 0Z" id="矩形" fill="#242938" fill-rule="evenodd" stroke="none" />
+    <g id="编组-2-复制" transform="matrix(0.99999994 0 0 0.99999994 64 64)">
+      <path d="M0 320C0 143.269 143.269 0 320 0C496.731 0 640 143.269 640 320C640 496.731 496.731 640 320 640C143.269 640 0 496.731 0 320Z" id="椭圆-2" fill="#00D198" fill-rule="evenodd" stroke="none" />
+      <path d="M64 320C64 178.615 178.615 64 320 64C461.385 64 576 178.615 576 320C576 461.385 461.385 576 320 576C178.615 576 64 461.385 64 320Z" id="椭圆" fill="#242938" fill-rule="evenodd" stroke="none" />
+      <g id="矩形-26-遮罩" transform="matrix(1 -8.429369E-08 8.429369E-08 1 128.52881 128.00024)">
+        <path d="M0 192C0 85.9613 85.9613 0 192 0C298.039 0 384 85.9613 384 192C384 298.039 298.039 384 192 384C85.9613 384 0 298.039 0 192Z" id="遮罩" fill="#00B3FF" fill-rule="evenodd" stroke="none" />
+        <g clip-path="url(#mask_1)">
+          <path d="M-42 191L426 191L426 447L-42 447L-42 191Z" id="矩形-26" fill="#FF4949" fill-rule="evenodd" stroke="none" />
+        </g>
+      </g>
+      <path d="M192 320C192 249.308 249.308 192 320 192C390.692 192 448 249.308 448 320C448 390.692 390.692 448 320 448C249.308 448 192 390.692 192 320Z" id="椭圆-3" fill="#242938" fill-rule="evenodd" stroke="none" />
+    </g>
+    <path d="M64 128C64 92.6538 92.6538 64 128 64C163.346 64 192 92.6538 192 128C192 163.346 163.346 192 128 192C92.6538 192 64 163.346 64 128L64 128Z" id="椭圆-4" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>
