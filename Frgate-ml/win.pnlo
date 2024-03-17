@@ -1,0 +1,11 @@
+[main]
+  windows
+~
+
+[windows]
+  title = "Frigate UI Hello World!";
+  pos = auto;
+  // pos: 80 80
+  size = auto;
+  // size: 80 80
+~
