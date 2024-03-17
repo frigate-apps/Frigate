@@ -3,7 +3,7 @@
   <img src="Frigate2-logo.svg" alt="Frigate-Logo" height="128">
 </picture>
 
-# Frigate 1.0 / (NSON 1.0)Frigate-Script 1.0 
+# Frigate 1.0 / Pnlo / Frigate-Script 1.0 
 
 Frigate是一种军舰鸟的解释器，提前尝试改进语法，Frigate主题，UI框架
 
